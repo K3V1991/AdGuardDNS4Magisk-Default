@@ -1,0 +1,7 @@
+id=AdGuardDNS4Magisk
+name=AdGuardDNS4Magisk Default
+version=v1
+versionCode=1
+author=K3V1991
+description=AdGuard Default DNS systemless
+minMagisk=17000
