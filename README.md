@@ -4,9 +4,11 @@
 * 176.103.130.130
 * 176.103.130.131
 
-
+## Caution
 It is not guaranteed to work on Cellular Networks on all Devices.
 
+## Requirements:
+Magisk installed (v17+)
 
 ## Changelog
 * v1 (Initial Release)
