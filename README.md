@@ -1,7 +1,6 @@
-AdGuardDNS4Magisk Default
+<img src="https://s16.directupload.net/images/190228/gftot9kb.png">
 
-
-This Module makes your Device to use AdGuard Default DNS Servers:
+## This Module makes your Device to use AdGuard Default DNS Servers:
 * 176.103.130.130
 * 176.103.130.131
 
