@@ -5,7 +5,7 @@
 * 176.103.130.131
 
 ## Caution:
-It is not guaranteed to work on Cellular Networks on all Devices.
+It is not guaranteed to work on Cellular Networks on all Devices
 
 ## Requirements:
 Magisk installed (v17+)
