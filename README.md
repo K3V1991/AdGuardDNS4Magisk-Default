@@ -9,7 +9,7 @@ It is not guaranteed to work on Cellular Networks on all Devices.
 
 
 ## Changelog
-* v1 Initial
+* v1 (Initial Release)
 
 
 ## Links
