@@ -21,3 +21,4 @@ Magisk installed (v17+)
 
 ## Credits
 * <a href="https://forum.xda-developers.com/member.php?u=4470081">topjohnwu@xda</a> for developing Magisk
+* smohanv@xda for Module Idea
