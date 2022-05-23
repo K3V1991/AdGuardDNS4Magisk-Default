@@ -6,7 +6,6 @@
 ## AdGuard Default DNS Servers:
 * 176.103.130.130
 * 176.103.130.131
-<br />
 
 ## Caution:
 It is not guaranteed to work on Cellular Networks on all Devices
