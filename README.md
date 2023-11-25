@@ -1,5 +1,5 @@
 <p align="center"><img src="https://github.com/K3V1991/AdGuardDNS4Magisk-Default/blob/main/AdGuard.png" width="120"></a>
-<h1 align="center"><b>AdGuardDNS4Magisk</b></h1>
+<h1 align="center"><b>AdGuardDNS4Magisk Default</b></h1>
 <h4 align="center">This Module makes your Device to use AdGuard Default DNS Servers</h4>
 <br />
 
