@@ -1,7 +1,8 @@
-id=AdGuardDNS4Magisk
-name=AdGuardDNS4Magisk Default
-version=v1
-versionCode=1
+id=AdGuardDNS4Magisk-Default
+name=AdGuardDNS4Magisk-Default
+version=v2.0
+versionCode=20
 author=K3V1991
-description=AdGuard Default DNS systemless
-minMagisk=17000
+description=Using the AdGuard DNS system-lessy.
+support=https://xdaforums.com/t/module-adguarddns4magisk-default-family-protection.3905370/#post-79002080
+donate=https://github.com/K3V1991/K3V1991

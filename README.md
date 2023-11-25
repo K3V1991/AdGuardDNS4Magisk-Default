@@ -13,8 +13,8 @@
 <br />
 
 ## AdGuard Default DNS Servers:
-* 176.103.130.130
-* 176.103.130.131
+* 94.140.14.14
+* 94.140.15.15
 
 ## Caution:
 It is not guaranteed to work on Cellular Networks on all Devices
@@ -25,7 +25,7 @@ Magisk installed (v17+)
 <br />
 
 ## Changelog:
-v1 (Initial Release)
+v2.0 Updated Servers
 <br />
 
 ## Links:
