@@ -12,25 +12,35 @@
 <hr />
 <br />
 
+## Purpose of this Module:
+Forward all Mobile Data via AdGuard DNS to block annoying Ads and Trackers
+<br />
+<br />
+
 ## AdGuard Default DNS Servers:
 * 94.140.14.14
 * 94.140.15.15
-
+<br />
 ## Caution:
-It is not guaranteed to work on Cellular Networks on all Devices
+Web Provider can block all Requests if you use Custom DNS Servers address
+Not guaranteed to work on Cellular Networks on all Devices
+<br />
 <br />
 
 ## Requirements:
 Magisk installed (v17+)
 <br />
+<br />
 
 ## Changelog:
 v2.0 Updated Servers
+<br />
 <br />
 
 ## Links:
 [![XDA Thread](https://img.shields.io/badge/XDA-Thread-orange.svg)](https://forum.xda-developers.com/apps/magisk/module-adguarddns4magisk-default-famile-t3905370)
 [![Magisk](https://img.shields.io/badge/Magisk-v17%2B-brightgreen.svg)](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
+<br />
 <br />
 
 ## Credits:
